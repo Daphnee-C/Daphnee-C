@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hello I'm Daphnée 🦋<h1>
 
-<h2 align="center">Enthusiactic and dedicated learning full-stack developer<h2>
+<h2 align="center">Enthusiactic and dedicated learning full-stack developer</h2>
 
 - 🎓 I'm currently studying full-stack development
 - 🌱 Since the beginning of my reconversion, I've made progress in Html, CSS, PHP and Vue.js
