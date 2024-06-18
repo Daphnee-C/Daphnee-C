@@ -1,10 +1,16 @@
 <div align="center">
-    <img alt="busy work" height="360" width="100%" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="max-width:100%; height:auto;">
+    <img alt="Mario busy working" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">    
 </div>
 
 <h1 align="center"> Hello I'm Daphnée 🦋<h1>
 
-<h2>Enthusiactic and dedicated learning full-stack developer, I am eager to contribute and grow within an active web development environment.<h2>
+<h2 align="center">Enthusiactic and dedicated learning full-stack developer<h2>
+
+- 🎓 I'm currently studying full-stack development
+- 🌱 Since the beginning of my reconversion, I've made progress in Html, CSS, PHP and Vue.js
+- 🔭 I’m currently working on projects involving Laravel, Symfony 
+- 💼 I'm looking for an apprenticeship
+
 
 <h3 align="left">Programming languages, Frameworks and Tools:</h3>
 
