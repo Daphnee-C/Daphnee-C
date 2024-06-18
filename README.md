@@ -7,7 +7,7 @@
 <h2>Enthusiactic and dedicated learning full-stack developer, I am eager to contribute and grow within an active web development environment.<h2>
 
 <h3 align="left">Programming languages, Frameworks and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,bootstrap,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,bootstrap,figma,notion&theme=light)](https://skillicons.dev)
 
 <h3 align="left">In learning</h3> 
 [![My Skills](https://skillicons.dev/icons?i=symfony,laravel,vue)](https://skillicons.dev)
