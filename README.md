@@ -17,12 +17,8 @@
 
 <h3 align="left">In learning:</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,laravel,vue&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,vue&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Contact me:</h3>
 
 [![Contact](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/daphnée/)
-
-<h3 align="left">Github stats:</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daphnee-C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
