@@ -8,8 +8,7 @@
 
 - 🎓 I'm currently studying full-stack development
 - 🌱 Since the beginning of my reconversion, I've made progress in Html, CSS, PHP and Vue.js
-- 🔭 I’m currently working on projects involving Laravel, Symfony 
-- 💼 I'm looking for an apprenticeship
+- 🔭 I’m currently working on projects involving PHP, Symfony 
 
 
 <h3 align="left">Programming languages, Frameworks and Tools:</h3>
